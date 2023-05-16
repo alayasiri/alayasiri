@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alayasiri
+- 👀 I’m interested in business analytics, data sceince, cloud computing, and machine learning.
+- 🌱 I’m currently pusuing a degree in Business Analytics with a concentration in Data Science.
+- ✨ My skills include MySQL, SQL Server, Python, Java, Tableau, and Excel.
