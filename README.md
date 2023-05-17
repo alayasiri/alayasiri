@@ -9,7 +9,7 @@
     - [Noble Health Clinic](https://github.com/alayasiri/ClinicDatabase)
     
 - <b>Business Intelligence and Streaming Music</b>
-    - [x]()
+    - [The Power of Business Intelligence](https://www.linkedin.com/pulse/unlocking-power-business-intelligence-alaya-sirigiri)
 - <b>Analyzing Movies</b>
     - [y]()
   
