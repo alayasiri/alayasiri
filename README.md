@@ -1,5 +1,5 @@
 <h1>Hey, I'm Alaya! <br/><a>
-<a href="https://www.linkedin.com/in/alayasirigiri/">Business Analytics Student</a>
+<a href="https://www.linkedin.com/in/alayasirigiri/">Business Analytics, Data Science Student</a>
 
 <h2> Projects:</h2>
 
