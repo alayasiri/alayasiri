@@ -5,7 +5,7 @@
 
 <h2>👩🏾‍💻 Projects:</h2>
 
-- <b>Building a Database for a Clinic</b>
+- <b>Building a Database</b>
     - [Noble Health Clinic](https://github.com/alayasiri/ClinicDatabase)
     
 - <b>Business Intelligence and Streaming Music</b>
