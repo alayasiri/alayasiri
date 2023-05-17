@@ -6,9 +6,8 @@
 <h2>👩🏾‍💻 Projects:</h2>
 
 - <b>Building a Database for a Clinic</b>
-    - [Final Presentation](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Writing Queries]()
-    - [Create Tables and Insert Statements]()
+    - [Noble Health Clinic](https://github.com/alayasiri/ClinicDatabase)
+    
 - <b>Business Intelligence and Streaming Music</b>
     - [x]()
 - <b>Analyzing Movies</b>
