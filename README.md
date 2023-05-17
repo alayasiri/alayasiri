@@ -13,7 +13,7 @@
 - <b>Analyzing Movies</b>
     - [y]()
  
-<!--
+
 <h2> 📄 Certifications:</h2>
     
   - [Python]()
@@ -26,7 +26,7 @@
 [linkedin]: https://www.linkedin.com/in/alayasirigiri/
 
   
-
+<!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
