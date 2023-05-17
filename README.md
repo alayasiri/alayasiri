@@ -1,7 +1,9 @@
 <h1>Hey, I'm Alaya! <br/><a>
-<a href="https://www.linkedin.com/in/alayasirigiri/">Business Analytics, Data Science Student</a>
+    <a href="https://www.linkedin.com/in/alayasirigiri/">Business Analytics Student</a>
+<!--<a Concetration in Data Science</a>-->
 
-<h2> Projects:</h2>
+
+<h2>👩🏾‍💻 Projects:</h2>
 
 - <b>Building a Database for a Clinic</b>
     - [Final Presentation](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -12,9 +14,9 @@
 - <b>Analyzing Movies</b>
     - [y]()
   
-<h2> Certifications:</h2>
-  - [Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Google: Data Analytics]()
+<h2> 📄 Certifications:</h2>
+    
+  - [Python]()
   
   
 <h2> 🤳 Connect with me:</h2>
