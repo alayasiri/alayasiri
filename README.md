@@ -24,7 +24,7 @@ My name is Alaya and I am currently pursuing a B.S. in Business Analytics with a
 
 <h2> 📄 Certifications:</h2>
     
-  - [Programming for Everybody (Getting Started with Python)](www.coursera.org/verify/TFH5Z2ZDXP6A)
+  - [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/b2629b8c7fcc9d84635d79817bf28a69)
   
   
 <h2> 🤳 Connect with me:</h2>
