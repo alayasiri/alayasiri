@@ -9,13 +9,14 @@
     
 - <b>Business Intelligence and Streaming Music</b>
     - [The Power of Business Intelligence](https://www.linkedin.com/pulse/unlocking-power-business-intelligence-alaya-sirigiri)
+
 - <b>Analyzing Movies</b>
     - [y]()
  
 
 <h2> 📄 Certifications:</h2>
     
-  - [Python]()
+  - [Programming for Everybody (Getting Started with Python)](www.coursera.org/verify/TFH5Z2ZDXP6A)
   
   
 <h2> 🤳 Connect with me:</h2>
