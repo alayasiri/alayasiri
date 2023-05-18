@@ -18,7 +18,8 @@ My name is Alaya and I am currently pursuing a B.S. in Business Analytics with a
 
 
 - <b>Analyzing Movies</b>
-    - [y]()
+    - [Data Analysis on Movies](https://github.com/alayasiri/movies-buan/tree/main)
+    - [Presentation](https://github.com/alayasiri/movies-buan/blob/main/movie_presentation.pdf)
  
 
 <h2> 📄 Certifications:</h2>
