@@ -12,7 +12,9 @@ My name is Alaya and I am currently pursuing a B.S. in Business Analytics with a
     - [Noble Health Clinic](https://github.com/alayasiri/ClinicDatabase)
     
 - <b>Business Intelligence and Streaming Music</b>
+    - [Data Analysis on Track Features](https://github.com/alayasiri/bi-music)
     - [The Power of Business Intelligence](https://www.linkedin.com/pulse/unlocking-power-business-intelligence-alaya-sirigiri)
+
 
 - <b>Analyzing Movies</b>
     - [y]()
