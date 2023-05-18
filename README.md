@@ -13,6 +13,7 @@ My name is Alaya and I am currently pursuing a B.S. in Business Analytics with a
     
 - <b>Business Intelligence and Streaming Music</b>
     - [Data Analysis on Track Features](https://github.com/alayasiri/bi-music)
+    - [Tableau Storyboard](https://github.com/alayasiri/bi-music/blob/main/spotify%20tableau.twbx)
     - [The Power of Business Intelligence](https://www.linkedin.com/pulse/unlocking-power-business-intelligence-alaya-sirigiri)
 
 
