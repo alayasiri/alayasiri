@@ -10,6 +10,9 @@ My skills include SQL, Python, data visualization (Tableau/Tableau Prep), SQL Se
     
 <h2>👩🏾‍💻 Projects:</h2>
 
+- <b>Learning dbt</b>
+    - [Transforming Data with dbt](https://github.com/alayasiri/dbt)
+
 - <b>Building a Database</b>
     - [Noble Health Clinic](https://github.com/alayasiri/ClinicDatabase)
     
@@ -22,11 +25,16 @@ My skills include SQL, Python, data visualization (Tableau/Tableau Prep), SQL Se
 - <b>Analyzing Movies</b>
     - [Data Analysis on Movies](https://github.com/alayasiri/movies-buan/tree/main)
     - [Presentation](https://github.com/alayasiri/movies-buan/blob/main/movie_presentation.pdf)
+
+
+
  
 
 <h2> 📄 Certifications:</h2>
     
   - [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/b2629b8c7fcc9d84635d79817bf28a69)
+  - [dbt Fundamentals](https://credentials.getdbt.com/1cc8ab76-a2c7-4cf1-82d7-f116cf63570f#gs.2brgs5)
+  - [Getting Started with Power BI Desktop](https://www.coursera.org/account/accomplishments/verify/REPHVTBS7XNZ)
   
   
 <h2> 🤳 Connect with me:</h2>
