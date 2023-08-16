@@ -41,7 +41,7 @@ My skills include SQL, Python, data visualization (Tableau/Tableau Prep), SQL Se
 
 <a href="https://www.linkedin.com/in/alayasirigiri/">LinkedIn<br/></a>
 
-<a href="https://github.com/alayasiri/Resume/blob/main/resume.pdf">Resume</a>
+<a href="https://github.com/alayasiri/resume/blob/main/alaya_resume.pdf">Resume</a>
 
   
 <!--
