@@ -11,7 +11,7 @@ My skills include SQL, Python, data visualization (Tableau/Tableau Prep and Powe
 <h2>👩🏾‍💻 Projects:</h2>
 
 - <b>Learning dbt</b>
-    - [Analyzing Crime in Los Angeles]()
+    - [Analyzing Crime in Los Angeles](https://github.com/alayasiri/crime_la)
 
 - <b>Learning dbt</b>
     - [Transforming Data with dbt](https://github.com/alayasiri/dbt)
