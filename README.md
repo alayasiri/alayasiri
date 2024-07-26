@@ -1,9 +1,9 @@
 <h1>Hey, I'm Alaya! <br/><a>
-    <a href="https://www.linkedin.com/in/alayasirigiri/">Business Analytics Student</a>
+    <a href="https://www.linkedin.com/in/alayasirigiri/">Business Analytics and Artificial Intelligence Master's Student</a>
 <!--<a Concetration in Data Science</a>-->
     
 <h2>👩🏾 About Me:</h2>
-My name is Alaya and I am currently pursuing a B.S. in Business Analytics with a concentration in Data Science. 
+My name is Alaya and I am currently pursuing a M.S. in Business Analytics and Artificial Intelligence with a concentration in Data Science. 
 My areas of interest include data analysis, data science, cloud computing, big data, machine learning, and artificial intelligence.     
 My skills include SQL, Python, data visualization (Tableau/Tableau Prep and PowerBI), SQL Server (SSIS, SSAS, & SSRS), Java, and Google Analytics. 
     
