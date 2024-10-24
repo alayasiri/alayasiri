@@ -6,9 +6,10 @@
 My name is Alaya and I am currently pursuing a M.S. in Business Analytics and Artificial Intelligence with a concentration in Data Science. 
 My areas of interest include data analysis, data science, cloud computing, big data, machine learning, and artificial intelligence.     
 My skills include SQL, Python, data visualization (Tableau/Tableau Prep and PowerBI), SQL Server (SSIS, SSAS, & SSRS), Java, and Google Analytics. 
+
+<h2>👩🏾‍💻 Projects - Masters:</h2>
     
-    
-<h2>👩🏾‍💻 Projects:</h2>
+<h2>👩🏾‍💻 Projects - Undergrad:</h2>
 
 - <b>Crime in LA using Python</b>
     - [Analyzing Crime in Los Angeles](https://github.com/alayasiri/crime_la)
