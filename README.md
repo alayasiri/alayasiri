@@ -19,6 +19,7 @@ My skills include SQL, Python, data visualization (Tableau/Tableau Prep and Powe
     - [Noble Health Clinic](https://github.com/alayasiri/ClinicDatabase)
     
 - <b>Business Intelligence and Streaming Music</b>
+    - <i>With 200,000+ minutes of music streamed, I wanted to find out what the data says about why certain songs stay on repeat.</i>
     - [Data Analysis on Track Features](https://github.com/alayasiri/bi-music)
     - [Tableau Storyboard](https://github.com/alayasiri/bi-music/blob/main/spotify%20tableau.twbx)
     - [The Power of Business Intelligence](https://www.linkedin.com/pulse/unlocking-power-business-intelligence-alaya-sirigiri)
