@@ -1,9 +1,9 @@
 <h1>Hey, I'm Alaya! <br/><a>
-    <a href="https://www.linkedin.com/in/alayasirigiri/">Consultant | Business Analytics & AI</a>
+    <a href="https://www.linkedin.com/in/alayasirigiri/">Associate at a Consulting Firm | Business Analytics & AI</a>
 <!--<a Concetration in Data Science</a>-->
     
 <h2>About Me:</h2>
-My name is Alaya. I was formerly a student, earning an M.S. in Business Analytics and Artificial Intelligence with a concentration in Data Science, and I am now working in consulting.
+My name is Alaya. I was formerly a student, earning an M.S. in Business Analytics and Artificial Intelligence with a concentration in Data Science, and I am now an Associate at a consulting firm. I enjoy turning messy data into clear, actionable insights that help clients make better decisions, from building dashboards and analytics pipelines to applying AI and machine learning to real business problems.
 My areas of interest include data analysis, data science, cloud computing, big data, machine learning, and artificial intelligence.     
 My skills include SQL, Python, data visualization (Tableau/Tableau Prep and PowerBI), SQL Server (SSIS, SSAS, & SSRS), Java, and Google Analytics. 
 
